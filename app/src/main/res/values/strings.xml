@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nebula Translator</string>
+    <string name="no_downloaded_model">You have no models downloaded.</string>
+    <string name="model_is_being_downloaded">Model is being downloaded, please wait for a moment..</string>
+    <string name="turn_on_wifi_request">Make sure you have your wifi turned on to download the model.</string>
+    <string name="ok">OK</string>
+    <string name="not_connected_to_wifi">You are not connected to the wifi network.</string>
+    <string name="turn_on_network_connectivity">Please connect to internet to use this feature. This will use as little data as possible.</string>
+</resources>
